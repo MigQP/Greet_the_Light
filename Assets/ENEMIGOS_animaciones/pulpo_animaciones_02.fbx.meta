@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 74500432441a75149b9dd69451f2e959
+timeCreated: 1542667419
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: head_squid_sk
+    100002: lft_bottom_1
+    100004: lft_bottom_2
+    100006: lft_bottom_3
+    100008: lft_bottom_4
+    100010: lft_bottom_5
+    100012: lft_bottom_6
+    100014: lft_bottom_7
+    100016: lft_bottom_8
+    100018: lft_middle_1
+    100020: lft_middle_2
+    100022: lft_middle_3
+    100024: lft_middle_4
+    100026: lft_middle_5
+    100028: lft_middle_6
+    100030: lft_middle_7
+    100032: lft_middle_8
+    100034: lft_top_1
+    100036: lft_top_2
+    100038: lft_top_3
+    100040: lft_top_4
+    100042: lft_top_5
+    100044: lft_top_6
+    100046: lft_top_7
+    100048: lft_top_8
+    100050: pCube160
+    100052: //RootNode
+    100054: rgt_bottom_1
+    100056: rgt_bottom_2
+    100058: rgt_bottom_3
+    100060: rgt_bottom_4
+    100062: rgt_bottom_5
+    100064: rgt_bottom_6
+    100066: rgt_bottom_7
+    100068: rgt_bottom_8
+    100070: rgt_middle_1
+    100072: rgt_middle_2
+    100074: rgt_middle_3
+    100076: rgt_middle_4
+    100078: rgt_middle_5
+    100080: rgt_middle_6
+    100082: rgt_middle_7
+    100084: rgt_middle_8
+    100086: rgt_top_1
+    100088: rgt_top_2
+    100090: rgt_top_3
+    100092: rgt_top_4
+    100094: rgt_top_5
+    100096: rgt_top_6
+    100098: rgt_top_7
+    100100: rgt_top_8
+    400000: head_squid_sk
+    400002: lft_bottom_1
+    400004: lft_bottom_2
+    400006: lft_bottom_3
+    400008: lft_bottom_4
+    400010: lft_bottom_5
+    400012: lft_bottom_6
+    400014: lft_bottom_7
+    400016: lft_bottom_8
+    400018: lft_middle_1
+    400020: lft_middle_2
+    400022: lft_middle_3
+    400024: lft_middle_4
+    400026: lft_middle_5
+    400028: lft_middle_6
+    400030: lft_middle_7
+    400032: lft_middle_8
+    400034: lft_top_1
+    400036: lft_top_2
+    400038: lft_top_3
+    400040: lft_top_4
+    400042: lft_top_5
+    400044: lft_top_6
+    400046: lft_top_7
+    400048: lft_top_8
+    400050: pCube160
+    400052: //RootNode
+    400054: rgt_bottom_1
+    400056: rgt_bottom_2
+    400058: rgt_bottom_3
+    400060: rgt_bottom_4
+    400062: rgt_bottom_5
+    400064: rgt_bottom_6
+    400066: rgt_bottom_7
+    400068: rgt_bottom_8
+    400070: rgt_middle_1
+    400072: rgt_middle_2
+    400074: rgt_middle_3
+    400076: rgt_middle_4
+    400078: rgt_middle_5
+    400080: rgt_middle_6
+    400082: rgt_middle_7
+    400084: rgt_middle_8
+    400086: rgt_top_1
+    400088: rgt_top_2
+    400090: rgt_top_3
+    400092: rgt_top_4
+    400094: rgt_top_5
+    400096: rgt_top_6
+    400098: rgt_top_7
+    400100: rgt_top_8
+    4300000: pCube160
+    7400000: pulpo_idle
+    7400002: pulpo_attack
+    9500000: //RootNode
+    13700000: pCube160
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: pulpo_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: pulpo_attack
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

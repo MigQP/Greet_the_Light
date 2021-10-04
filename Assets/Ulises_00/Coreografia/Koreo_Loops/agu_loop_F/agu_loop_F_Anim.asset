@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: agu_loop_F_Anim
+  m_EditorClassIdentifier: 
+  mEventID: agu_loop_F_Anim
+  mEventList:
+  - mStartSample: 40707
+    mEndSample: 81415
+  - mStartSample: 101769
+    mEndSample: 142477
+  - mStartSample: 162830
+    mEndSample: 203538
+  - mStartSample: 223892
+    mEndSample: 264600
+  - mStartSample: 284953
+    mEndSample: 325661
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 5
+  - mIntVal: 5
+  - mIntVal: 5
+  - mIntVal: 5
+  - mIntVal: 5
+  _IntPayloadIdxs: 0000000001000000020000000300000004000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

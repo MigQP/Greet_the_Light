@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 06b83d293bf84b645a603381d890d273
+timeCreated: 1542667418
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint17
+    100004: joint18
+    100006: joint19
+    100008: joint2
+    100010: joint2 1
+    100012: joint20
+    100014: joint21
+    100016: joint22
+    100018: joint23
+    100020: joint24
+    100022: joint25
+    100024: joint26
+    100026: joint27
+    100028: joint28
+    100030: joint29
+    100032: joint3
+    100034: joint3 1
+    100036: joint30
+    100038: joint31
+    100040: joint32
+    100042: joint34
+    100044: joint35
+    100046: joint4
+    100048: joint4 1
+    100050: joint5
+    100052: joint5 1
+    100054: joint6
+    100056: joint6 1
+    100058: joint7
+    100060: joint7 1
+    100062: pSphere86
+    100064: //RootNode
+    100066: uturn_head_ctl
+    100068: uturn_mstr_ctrl
+    400000: joint1
+    400002: joint17
+    400004: joint18
+    400006: joint19
+    400008: joint2
+    400010: joint2 1
+    400012: joint20
+    400014: joint21
+    400016: joint22
+    400018: joint23
+    400020: joint24
+    400022: joint25
+    400024: joint26
+    400026: joint27
+    400028: joint28
+    400030: joint29
+    400032: joint3
+    400034: joint3 1
+    400036: joint30
+    400038: joint31
+    400040: joint32
+    400042: joint34
+    400044: joint35
+    400046: joint4
+    400048: joint4 1
+    400050: joint5
+    400052: joint5 1
+    400054: joint6
+    400056: joint6 1
+    400058: joint7
+    400060: joint7 1
+    400062: pSphere86
+    400064: //RootNode
+    400066: uturn_head_ctl
+    400068: uturn_mstr_ctrl
+    4300000: pSphere86
+    7400000: uturn_idle
+    7400002: uturn_attack
+    9500000: //RootNode
+    13700000: pSphere86
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: uturn_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: uturn_attack
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ulises_00/Scenes/blockmenu.unity
+    guid: b7fac45f6d8142444a510c09452ffef3
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/mainmenu_01.unity
+    guid: b36b2ee90035c9c4ba7b437c2c392e5d
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/levelselect_01.unity
+    guid: 2ad1ac995d5d5f84fbad74ff5ebd04f3
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/options_01.unity
+    guid: 6a55eaaf85a78b44b9fe19bafb9cc923
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/controls_01.unity
+    guid: 3d830686076a0d54580b5e669c6632a7
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/settings_01.unity
+    guid: 435216bcdbc8cdb46993c7feef978aaa
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/credits_01.unity
+    guid: 3976a953ac0c6d542b61bb3e20c82add
+  - enabled: 1
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/loading_screen_01.unity
+    guid: c063c1c6a377b444aa8d060cb6989bbb
+  - enabled: 1
+    path: Assets/Ulises_00/Scenes/tutorial_00.unity
+    guid: 09f566092815f62499f597b09dcbcd24
+  - enabled: 1
+    path: Assets/Ulises_00/Scenes/tutorial_02.unity
+    guid: ffc30fd19da923f45a53cd08fe545c43
+  - enabled: 1
+    path: Assets/Ulises_00/Scenes/tutorial_03.unity
+    guid: 2600b533b95e6e741b2be160e58fb51b
+  - enabled: 1
+    path: Assets/Ulises_00/Scenes/tutorial_04.unity
+    guid: e4a4a62dd8b571342a112dfb79d329e6
+  - enabled: 1
+    path: Assets/Ulises_00/Scenes/Beta_02.unity
+    guid: be9f614547e86294b94506e9109d70f7
+  - enabled: 0
+    path: Assets/INTERFAZ_01/Toda la Interfaz/escenas_interfaz/title_screen.unity
+    guid: d16e9454c5a73364f832c8877fe94d4b
