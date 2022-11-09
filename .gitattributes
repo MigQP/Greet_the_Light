@@ -1,3 +1,5 @@
+##	Cache
+Library/PlayerDataCache/Data/** filter=lfs diff=lfs merge=lfs -text
 # Unity 
 *.shader                text eol=lf
 # 3D models
